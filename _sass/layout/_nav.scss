@@ -79,7 +79,9 @@
 			}
 		}
 
-		@include breakpoint(medium) {
-			display: none;
-		}
+
+		// con esto no se muestra el fondito de los tabs cuando de achica la pantalla
+		// @include breakpoint(medium) {
+		// 	display: none;
+		// }
 	}

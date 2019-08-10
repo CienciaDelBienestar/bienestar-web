@@ -13,11 +13,11 @@
 
 		<!-- Wrapper -->
 			<div id="wrapper" class="fade-in">
-				{% if page.url == '/' %}
+				
 					
 					<!-- Intro -->
 					<div id="intro" style="padding-top: 0px">
-							<img src="images/logo_bienestar.png" alt="logo" id="logo-bienestar"/>
+							<img src={{ "/images/logo_bienestar.png" | absolute_url }} alt="logo" id="logo-bienestar"/>
 							<br>
 							<p id='subtitle'>Un taller para estudiantes de Ingeniería UC, 
 								en el que conoceremos, discutiremos y aplicaremos 
@@ -29,17 +29,17 @@
 					</div>
 
 
-				{% endif %}
+				<br>
 
 				<!-- Header -->
-				<header id="header">
+				<!-- <header id="header">
 					<a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
-				</header>
+				</header> -->
 
 				<!-- Nav -->
 					<nav id="nav">
 
-            {% include nav.html %}
+            		{% include nav.html %}
 
 					</nav>
 

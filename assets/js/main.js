@@ -134,10 +134,10 @@
 		// Nav Panel.
 
 			// Toggle.
-				$navPanelToggle = $(
-					'<a href="#navPanel" id="navPanelToggle">Menu</a>'
-				)
-					.appendTo($wrapper);
+				// $navPanelToggle = $(
+				// 	'<a href="#navPanel" id="navPanelToggle">Menu</a>'
+				// )
+				// 	.appendTo($wrapper);
 
 				// Change toggle styling once we've scrolled past the header.
 					$header.scrollex({
@@ -173,30 +173,30 @@
 				// Get inner.
 					$navPanelInner = $navPanel.children('nav');
 
-				// Move nav content on breakpoint change.
-					var $navContent = $nav.children();
+				// Move nav content on breakpoint change. ESTO HACE DESAPARECER LOS TABS
+					// var $navContent = $nav.children();
 
-					skel.on('!medium -medium', function() {
+					// skel.on('!medium -medium', function() {
 
-						// NavPanel -> Nav.
-							$navContent.appendTo($nav);
+					// 	// NavPanel -> Nav.
+					// 		$navContent.appendTo($nav);
 
-						// Flip icon classes.
-							$nav.find('.icons, .icon')
-								.removeClass('alt');
+					// 	// Flip icon classes.
+					// 		$nav.find('.icons, .icon')
+					// 			.removeClass('alt');
 
-					});
+					// });
 
-					skel.on('+medium', function() {
+					// skel.on('+medium', function() {
 
-						// Nav -> NavPanel.
-						$navContent.appendTo($navPanelInner);
+					// 	// Nav -> NavPanel.
+					// 	$navContent.appendTo($navPanelInner);
 
-						// Flip icon classes.
-							$navPanelInner.find('.icons, .icon')
-								.addClass('alt');
+					// 	// Flip icon classes.
+					// 		$navPanelInner.find('.icons, .icon')
+					// 			.addClass('alt');
 
-					});
+					// });
 
 				// Hack: Disable transitions on WP.
 					if (skel.vars.os == 'wp'
