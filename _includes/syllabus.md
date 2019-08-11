@@ -1,5 +1,6 @@
 
 **Descripción**
+<!-- ![alt text]({{ "/images/logo_DEI.png" | absolute_url }}) -->
 
 ¿Qué es aquello que nos hace felices? es una pregunta natural para el ser humano. Sin embargo, solo recientemente han surgido trabajos científicos que han intentado entender con rigurosidad diversos aspectos relacionados al bienestar, incluyendo a la felicidad. Estos incluyen, entre otros, la identificación de comportamientos que nos llevan a una felicidad sostenida, la identificación de comportamientos que, aunque lo parezcan, no nos hacen felices, y las razones por las cuales al buscar nuestro bienestar, tendemos a elegir acciones que no son efectivas.
 
