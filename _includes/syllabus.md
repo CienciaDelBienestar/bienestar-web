@@ -1,4 +1,6 @@
 
+**Profesores**: Jorge Baier, Ximena Hidalgo
+
 **Descripción**
 <!-- ![alt text]({{ "/images/logo_DEI.png" | absolute_url }}) -->
 
