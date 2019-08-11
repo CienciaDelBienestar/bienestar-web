@@ -277,8 +277,12 @@
 			//let base = document.documentURI.split('/').slice(0,3).join('/');
 
 			// change logo to mobile logo
-			$("#logo-bienestar").attr("src", window.location.origin + "/bienestar-web/images/logo_bienestar_mobile.png");
+			$("#logo-bienestar")
+				.attr("src", window.location.origin + "/bienestar-web/images/logo_bienestar_mobile.png")
+				.css("padding-top", "3em")
 			//$("#logo-bienestar").attr("src", base + "/bienestar-web/images/logo_bienestar_mobile.png");
+
+			$("div#intro").css("display", 'table-cell');
 		}
 		return check;
 	  };
