@@ -37,7 +37,7 @@ se promoverá que los  estudiantes apliquen algunas de las herramientas adquirid
 
 Este taller será evaluado formativamente a través de trabajos de aplicación o &quot;mini ensayos&quot;  que incorporen los elementos revisados en clases en relación a la puesta en práctica de las  herramientas propuestas por la ciencia del bienestar.
 
-**Calendario**
+<!-- **Calendario**
 
 | **Clase** | **Fecha** | **Contenido** |
 | :---: | :--- | :--- |
@@ -52,4 +52,4 @@ Este taller será evaluado formativamente a través de trabajos de aplicación o
 | 9 | 21 octubre | Comportamientos y actitudes que según la ciencia conducen al bienestar II |
 | 10 | 28 octubre | Comportamientos y actitudes que según la ciencia conducen al bienestar III |
 | 11 | 4 noviembre | Cómo administrar y enfocar tus recursos para lograr mayor bienestar I |
-| 12 | 11 noviembre | Cómo administrar y enfocar tus recursos para lograr mayor bienestar II |
+| 12 | 11 noviembre | Cómo administrar y enfocar tus recursos para lograr mayor bienestar II | -->
