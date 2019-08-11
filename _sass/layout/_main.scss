@@ -49,9 +49,9 @@
 				text-align: center;
 			}
 
-			// @include breakpoint(large) {
-			// 	@include padding((_size(padding) * 3), (_size(padding) * 2));
-			// }
+			@include breakpoint(large) {
+				@include padding((_size(padding) * 3), (_size(padding) * 2));
+			}
 
 			@include breakpoint(small) {
 				@include padding((_size(padding) * 2), (_size(padding) * 1));
