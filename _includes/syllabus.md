@@ -1,7 +1,7 @@
 
-**Inicio de clases**: lunes 19 de agosto, 14:00 horas, sala Javier Pinto, departamento de computación
+**Horario y Sala**: Lunes Módulo 4, sala Javier Pinto, Departamento de Ciencia de la Computación. Clases inician el 19 de agosto.
 
-**Profesores**: Jorge Baier, Ximena Hidalgo
+**Profesores**: Jorge Baier (jabaier@ing.puc.cl), Ximena Hidalgo (xhidalgo@ing.puc.cl)
 
 **Descripción**
 <!-- ![alt text]({{ "/images/logo_DEI.png" | absolute_url }}) -->
