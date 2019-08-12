@@ -1,4 +1,6 @@
 
+**Inicio de clases**: lunes 19 de agosto, 14:00 horas, sala Javier Pinto, departamento de computación
+
 **Profesores**: Jorge Baier, Ximena Hidalgo
 
 **Descripción**
