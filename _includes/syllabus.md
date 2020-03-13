@@ -1,5 +1,5 @@
 
-**Horario y Sala**: Lunes Módulo 4, sala Javier Pinto, Departamento de Ciencia de la Computación. Clases inician el 19 de agosto.
+**Horario y Sala**: Lunes Módulo 4 (de 14:00 a 15:20), sala Javier Pinto, Departamento de Ciencia de la Computación, piso cuatro del edificio San Agustín. Las clases inician el 30 de marzo.
 
 **Profesores**: Jorge Baier (jabaier@ing.puc.cl), Ximena Hidalgo (xhidalgo@ing.puc.cl)
 
