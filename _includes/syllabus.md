@@ -33,9 +33,7 @@ Al final de este taller el estudiante podrá identificar y aplicar en su vida he
 
 La metodología de este taller es altamente interactiva, combinando revisión de la literatura existente sobre la ciencia del bienestar, con discusiones grupales y análisis  crítico sobre el material revisado en clases.
 
-La invitación es a reflexionar sobre las posibles influencias de los postulados de la ciencia del bienestar en la vida del estudiante y en la sociedad. A través de diversas actividades,
-
-se promoverá que los  estudiantes apliquen algunas de las herramientas adquiridas, en sus rutinas personales.
+La invitación es a reflexionar sobre las posibles influencias de los postulados de la ciencia del bienestar en la vida del estudiante y en la sociedad. A través de diversas actividades, se promoverá que los  estudiantes apliquen algunas de las herramientas adquiridas, en sus rutinas personales.
 
 **Evaluación**
 

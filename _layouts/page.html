@@ -1,72 +1,52 @@
 <!DOCTYPE HTML>
-<!--
-	Massively by HTML5 UP
-	html5up.net | @ajlkn
-  Jekyll integration by somiibo.com
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
 <html>
-	<head>
-    {% include head.html %}
-	</head>
-	<body class="is-loading">
 
-		<!-- Wrapper -->
-			<div id="wrapper" class="fade-in">
-				
-					
-					<!-- Intro -->
-					<div id="intro" style="padding-top: 0px">
-							<img src={{ "/images/logo_bienestar.png" | absolute_url }} alt="logo" id="logo-bienestar"/>
-							<br>
-							<p id='subtitle'>Un taller para estudiantes de Ingeniería UC, 
-								en el que conoceremos, discutiremos y aplicaremos 
-								herramientas científicamente validadas para 
-								un bienestar sostenible.</p>
-								<!-- <ul class="actions">
-									<li><a href="#header" class="button icon solo fa-arrow-down scrolly">Continue</a></li>
-								</ul> -->
-					</div>
+<head>
+	{% include head.html %}
+</head>
+
+<body class="is-loading">
 
 
-				<br>
+	<div id="wrapper" class="fade-in">
 
-				<!-- Header -->
-				<!-- <header id="header">
-					<a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
-				</header> -->
 
-				<!-- Nav -->
-					<nav id="nav">
+		<div id="intro" style="padding-top: 0px">
+			<img src={{ "/images/logo_bienestar.png" | absolute_url }} alt="logo" id="logo-bienestar" />
+			<br>
+			<p id='subtitle'>Un taller para estudiantes de Ingeniería UC,
+				en el que conoceremos, discutiremos y aplicaremos
+				herramientas científicamente validadas para
+				un bienestar sostenible.</p>
+		</div>
 
-            		{% include nav.html %}
 
-					</nav>
+		<br>
+		<nav id="nav">
 
-				<!-- Main -->
-				<div id="main">
+			{% include nav.html %}
 
-					<!-- Post -->
-					<section class="post">
-						{{content}}
-					</section>
+		</nav>
 
-					<!-- Footer -->
-						<!-- <footer>
-              <ul class="actions">
-								<li><a href="{{ "/blog/" | absolute_url }}" class="button">Our Blog</a></li>
-              </ul>
-						</footer> -->
-					</div>
 
-				<!-- Footer -->
-        <!-- {% include foot.html %} -->
+		<div id="main">
 
-			</div>
 
-			<!-- Scripts -->
-			{% include scripts-main.html %}
-			{% include tracking.html %}
+			<section class="post">
+				{{content}}
+			</section>
 
-	</body>
+		</div>
+
+
+
+
+	</div>
+
+
+	{% include scripts-main.html %}
+	{% include tracking.html %}
+
+</body>
+
 </html>
